@@ -1,0 +1,5 @@
+# Ignore everything except the Dart source directory and this file.
+/*
+!/lib/
+!/lib/**
+!/.gitignore
